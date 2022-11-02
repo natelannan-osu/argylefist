@@ -6,15 +6,23 @@ heading: stub
 subheading: stub
 mainpitch:
   title: stub
-  description: "\n"
+  description: |-
+    
+    stub
 description: stub
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/sox1.jpg
+      text: stub
   heading: stub
-  description: "\n"
+  description: |-
+    
+    stub
 main:
   heading: stub
-  description: "\n"
+  description: |-
+    
+    stub
   image1:
     alt: stub
     image: /img/argyle_fist.jpg
