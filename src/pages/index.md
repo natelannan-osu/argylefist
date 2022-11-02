@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Soon to be home of Argyle Fist!!!
-image: /img/1200px-pinkargyle.svg.png
+image: /img/argyle2.jpg
 heading: stub
 subheading: stub
 mainpitch:
